@@ -18,6 +18,7 @@ Link: [https://flightsfarespredictions.herokuapp.com/](https://flightsfarespredi
 
 ![Screenshot](Capture.PNG)
 ![Screenshot](Capture2.PNG)
+![Screenshot](Capture3.PNG)
 
 
 ## Problem Statement
