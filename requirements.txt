@@ -1,0 +1,11 @@
+Flask
+gunicorn
+Jinja2
+joblib
+numpy
+pandas
+python-dateutil
+pytz
+scikit-learn
+scipy
+

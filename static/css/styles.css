@@ -1,0 +1,24 @@
+body {
+    background-color: #e1f4f3;
+    background-image: url("https://wallpapercave.com/wp/wp4128800.jpg");
+    text-align: center;
+}
+
+.navbar {
+    background-color: #ec9147;
+    color: rgb(15, 15, 80);
+}
+
+a {
+    color: #f1f9f9;
+}
+
+a:hover {
+    color: #f0f0f0;
+  }
+
+.test{
+    background-color: rgb(28, 28, 131);
+    color: whitesmoke;
+    border: 3px solid rgb(221, 118, 0);
+}
